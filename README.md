@@ -33,6 +33,14 @@ Abstractions should not depend upon details. Details should depend upon abstract
 # 设计模式
 
 ## 单例模式(Singleton Pattern)
+
+全局唯一，类似全局变量
 ## 工厂模式(Factory Pattern)
+
+通过类名(string)，获得类的实例化对象,一般用反射(reflection)的概念来完成
 ## 抽象工厂模式(Abstract Factory Pattern)
+
+
 ## 观察者模式(Observer Pattern)
+
+订阅和发布
