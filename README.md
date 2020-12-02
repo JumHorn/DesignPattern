@@ -40,7 +40,7 @@ Abstractions should not depend upon details. Details should depend upon abstract
 通过类名(string)，获得类的实例化对象,一般用反射(reflection)的概念来完成
 ## 抽象工厂模式(Abstract Factory Pattern)
 
-
+工厂模式中的工厂也采用工厂模式，对工厂抽象
 ## 观察者模式(Observer Pattern)
 
 订阅和发布
